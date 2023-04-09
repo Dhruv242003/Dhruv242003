@@ -1,3 +1,5 @@
+<img src="https://github.com/Dhruv242003/Dhruv242003/blob/main/banner.jpg" alt="banner" style="width:80%; height:20%;">
+
 <h1 align="center">Hi 👋, I'm Dhruv Thakkar</h1>
 <h3 align="center">Robotics and computer-vision enthusiast</h3>
 
